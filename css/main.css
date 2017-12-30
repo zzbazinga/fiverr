@@ -1,0 +1,53 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background-color: #3C211B;
+	padding-top: 0px;
+}
+
+.header{
+	  padding-top: 0px;
+	  margin-bottom: 0px;
+	  width: 100%;
+}
+.img-top{
+	width: 100%;
+	height: inherit;
+}
+.section1 h1{
+	color: #2057A0;
+}
+.section1 h3{
+	color: #e67300;
+	align-content: center;
+	font-weight: bold;
+}
+.section1 p{
+	color: white;
+	font-weight: bold;
+}
+.section2 p{
+	color: white;
+}
+.section2 h3{
+	color: #e67300;
+}
+h3{
+	color: #2057A0;
+}
+p{
+	color: white;
+}
+li{
+	color: white;
+}
+h2{
+	color: #D67111;
+}
+
+
+
+
