@@ -13,10 +13,12 @@ body {
 	  margin-bottom: 0px;
 	  width: 100%;
 }
+.header img{
+			height: 300px;
+}
 .img-top{
 	width: 100%;
-	height: inherit;
-}
+	}
 .section1 h1{
 	color: #2057A0;
 }
